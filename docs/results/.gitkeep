@@ -1,0 +1,5 @@
+This directory contains optimization result images.
+Run examples/ship_block_example.py to generate:
+- cutting_plan.png
+- convergence.png
+- comparison.png
